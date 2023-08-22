@@ -33,7 +33,7 @@ Dealers final hand: [10, 8], final score: 18
 You WIN
 
 # Note
-If your hand has an Ace, it is considered an 11; if you would bust with the Ace as an 11 value then the value automatically changes to a value of 1.
+If your hand has an Ace, it is considered an 11; if you would bust with the Ace as an 11 value, then the value automatically changes to a value of 1.
 
 # Tips
 Consider the total value of your cards and the dealer's visible card when deciding whether to hit or stand.
